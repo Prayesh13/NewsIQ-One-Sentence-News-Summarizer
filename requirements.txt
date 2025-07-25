@@ -1,0 +1,5 @@
+streamlit
+gunicorn
+transformers
+tensorflow
+torch
