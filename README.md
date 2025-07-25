@@ -77,6 +77,10 @@ python headline_generator.py
 
 ---
 
+## 📸 Screenshots
+![NewsIQ UI](screenshots/image.png)
+
+
 ## 🧪 Example
 
 **Input:**
@@ -87,14 +91,6 @@ python headline_generator.py
 
 > Government unveils new policy to cut emissions by 30% by 2030.
 
----
-
-## 📦 Future Enhancements
-
-* Add Streamlit UI
-* Add PDF/news URL extraction
-* Add multi-language support
-* Export headlines to CSV
 
 ---
 
